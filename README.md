@@ -11,7 +11,7 @@ To write a program to predict car prices using Linear Regression and Polynomial 
 ## Algorithm
 1. Data Collection:
 
-## . Import essential libraries like pandas, numpy, sklearn, matplotlib, and seaborn.
+. Import essential libraries like pandas, numpy, sklearn, matplotlib, and seaborn.
 Load the dataset using pandas.read_csv().
 Data Preprocessing:
 
